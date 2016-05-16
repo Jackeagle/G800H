@@ -1,0 +1,11 @@
+10
+com.ea.monopolymillionaire_embed
+com.rsupport.rs.activity.rsupport.aas2
+com.ea.games.nfs13_embed_latam
+com.evernote
+com.gameloft.android.LATAM.GloftAA03
+com.gameloft.android.LATAM.GloftGF2H
+com.gameloft.android.LATAM.BO05
+com.ea.game.bejeweled2_LATAM
+com.gameloft.android.LATAM.GloftUNOG
+com.gameloft.android.LATAM.GloftZOOM

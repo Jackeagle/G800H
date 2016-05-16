@@ -1,0 +1,2 @@
+/system/app/DropboxOOBE/DropboxOOBE.apk
+/system/app/WebManual/WebManual.apk

@@ -1,0 +1,14 @@
+/system/app/Bejeweled2_v5.5.69_T5_SDK_DEP_ID_135-Telemetry/Bejeweled2_v5.5.69_T5_SDK_DEP_ID_135-Telemetry.apk
+/system/app/DESTAQUES-WIDGET_040216_Signed_2015_04_10/DESTAQUES-WIDGET_040216_Signed_2015_04_10.apk
+/system/app/Evernote_581/Evernote_581.apk
+/system/app/GreenFarm3_Samsung_G800H_ML_IGP_LATAM_IAP_TS_101/GreenFarm3_Samsung_G800H_ML_IGP_LATAM_IAP_TS_101.apk
+/system/app/KingdomsAndLords_Samsung_G800H_IGP_LATAM_ML_IAP_TS_100/KingdomsAndLords_Samsung_G800H_IGP_LATAM_ML_IAP_TS_100.apk
+/system/app/ModernCombat4_Samsung_G800H_IGP_LATAM_ML_102/ModernCombat4_Samsung_G800H_IGP_LATAM_ML_102.apk
+/system/app/MonopolyMillionaire_v3.0.4_T5_SDK_DEP_ID_134/MonopolyMillionaire_v3.0.4_T5_SDK_DEP_ID_134.apk
+/system/app/nfsmw_v1.0.57_LTE/nfsmw_v1.0.57_LTE.apk
+/system/app/smart_tutor_v1.5_b135/smart_tutor_v1.5_b135.apk
+/system/app/TeLigouFlex/TeLigouFlex.apk
+/system/app/TetheringLauncher/TetheringLauncher.apk
+/system/app/UNO_Samsung_G800H_ML_IGP_LATAM_TS_101/UNO_Samsung_G800H_ML_IGP_LATAM_TS_101.apk
+/system/app/UserManual/UserManual.apk
+/system/app/WonderZoo_FULL_Samsung_G800H_ML_IGP_LATAM_EN_ES_BR_TS_IAP_100/WonderZoo_FULL_Samsung_G800H_ML_IGP_LATAM_EN_ES_BR_TS_IAP_100.apk

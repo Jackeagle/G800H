@@ -1,0 +1,3 @@
+ko_KR-ak-cur.lite.res	6dcffcd1b542eff39106cc2e11ffaa08	6791975
+ko_KR.lang	6375c80319573bfa5d60ebc230ac6954	4124
+ko_KR-lk-text.lite.res	e87f89c91c9019959ce66ffa2f4411d1	4149328
